@@ -47,3 +47,7 @@ _Development log will be appended as issues are completed._
 ### Cycle 2 — #2: Implement world entities and production system
 
 **REQUEST_CHANGES** — The implementation provides a solid foundation with World class and resource nodes, but is missing several critical acceptance criteria. Facility subclasses, production manager, supply chain connections, and facility rendering are not implemented. The code structure is good but incomplete for the issue requirements.
+
+### Cycle 3 — #3: Implement market dynamics and financial systems
+
+**REQUEST_CHANGES** — The Market class is implemented with supply/demand pricing and marketing effects, but critical components are missing: FinancialSystem class for loans and stock market, UI elements for financial controls, and integration into the game loop. Player price setting is also not implemented.
